@@ -1,0 +1,166 @@
+body {
+    
+    background: no-repeat;
+    background-color:
+    color: white;
+    font-family: 'Mulish', sans-serif;
+
+   
+}
+body {
+/*background-image: url("https://thumbor.bigedition.com/luca/578r4rhRty7U_TJNjxGg_LZhdHA=/0x241:540x647/540x0/filters:quality(80)/granite-web-prod/65/af/65af8094b25d4c2990048e841750c721.jpeg");*/
+  background-size: 1350px 570px;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+
+}
+nav .img img{
+    width: 17%;
+    margin-top: -20px;
+}
+nav .img img{
+    width: 17%;
+    margin-top: -18px;
+}
+nav .btn{
+    display: flex;
+    margin: 12px;
+
+}
+.btn .eng{
+   width: 110px;
+   height: 40px;
+   background-color: black;
+   color: white;
+   font-size: 19px;
+   border: 2px solid white;
+   border-radius: 3px;
+
+ 
+
+}
+.btn .sign:hover{
+    background-color: transparent;
+    border: 3px solid red;
+}
+.btn .sign{
+    width: 110px;
+    height: 40px;
+    background-color: rgb(224, 22, 22);
+    color: white;
+    font-size: 19px;
+    border-radius: 3px;
+    border: none;
+}
+.btn .eng:hover{
+    background-color: transparent;
+    border: 3px solid white;
+    5
+}
+.btn .eng{
+    margin-inline:22px;
+    background-color: black;
+    color: white;
+    
+}
+.kavi video{
+width: 100%;
+
+position: fixed;
+z-index: -1;
+color:blueviolet;
+filter:white(1)
+
+}
+.main{
+    text-align: center;
+z-index: -1;
+}
+.main h1{
+    font-size: 60px;
+    font-family: 'Mukta', sans-serif;
+    z-index: -1;
+}
+.main h3{
+    font-size: 34px;
+    z-index: -1;
+}
+.main p{
+    font-size: 27px;
+    z-index: -1;
+}
+.input{
+    display: flex;
+    justify-content: center;
+    z-index: -1;
+}
+.input input{
+    width: 400px;
+    height: 58px;
+    border: none;
+    font-size: 22px;
+    z-index: -1;
+}
+.input button{
+    width: 200px;
+    height: 60px;
+    background-color: rgb(225, 25, 25);
+    color: white;
+    font-size: 26px;
+    border: none;
+    z-index: -1;
+
+}
+.first{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+
+    margin-top: 160px;
+    padding: 66px;
+    border-top: 4px solid gray;
+    z-index: -1;
+}
+.first h1{
+    font-size: 55px;
+    z-index: -1;
+}
+.first p{
+    font-size: 27px;
+    z-index: -1;
+}
+.first img{
+    width: 44%;
+    z-index: -1;
+}
+.buttons h1{
+    text-align: center;
+    margin-top: 33px;
+    font-size: 44px;
+    z-index: -1;
+}
+.buttons button{
+    width: 600px;
+    height: 60px;
+    background-color: gray;
+    color: white;
+    font-size: 26px;
+    margin-left: 26%;
+    text-align: left;
+    z-index: -1;
+
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 44px;
+    border-top: 4px solid gray;
+    margin-top: 53px;
+    z-index: -1;
+
+}
